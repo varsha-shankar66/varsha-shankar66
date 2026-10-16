@@ -2,7 +2,7 @@
 <!-- HEADER BANNER                                                             -->
 <!-- ========================================================================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0a0d14,111827,1e1b4b,38bdf8&height=220&section=header&text=VARUN%20VISHWA&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20Product%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Software%20Engineer&descSize=16&descColor=38bdf8&descAlignY=62" alt="Varun Vishwa Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/varunvishwa1/varunvishwa1/main/banner.svg" alt="Varun Vishwa - AI Product Engineer & AI/ML Developer" />
 </p>
 
 <!-- Dynamic Typing Tagline -->
@@ -208,7 +208,12 @@ const varun = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvishwa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=varunvishwa1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varunvishwa1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varunvishwa1&theme=tokyonight" alt="Card Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varunvishwa1&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
 <br/>
@@ -220,7 +225,7 @@ const varun = {
 
 <p align="center">
   <a href="https://github.com/varunvishwa1">
-    <img src="https://github-profile-trophy.vercel.app/?username=varunvishwa1&theme=onedark&no-frame=true&margin-w=4&row=1&column=7" width="95%" alt="GitHub Trophies" />
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=varunvishwa1&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" width="98%" alt="GitHub Trophies" />
   </a>
 </p>
 
