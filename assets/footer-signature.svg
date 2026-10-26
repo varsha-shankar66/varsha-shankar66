@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="sig-title">
+  <title id="sig-title">Varun Vishwa — Developing scalable, reliable AI-powered products that solve real-world problems.</title>
+  <defs>
+    <linearGradient id="sig-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#140305"/>
+    </linearGradient>
+    <radialGradient id="sig-glow" cx="50%" cy="100%" r="70%">
+      <stop offset="0" stop-color="#df2531" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sig-line" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="1100" y2="0">
+      <stop offset="0" stop-color="#df2531" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#df2531"/>
+      <stop offset="1" stop-color="#df2531" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sig-serif { font-family: Georgia, serif; }
+    .sig-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .sig-name {
+      stroke: #df2531; stroke-width: 1.2; fill: #ffffff; fill-opacity: 0;
+      stroke-dasharray: 900; stroke-dashoffset: 900;
+      animation: sig-write 3.6s cubic-bezier(.65,0,.35,1) .3s forwards;
+    }
+    @keyframes sig-write { 70% { stroke-dashoffset: 0; fill-opacity: 0; } 100% { stroke-dashoffset: 0; fill-opacity: 1; } }
+  </style>
+
+  <rect width="1200" height="230" rx="20" fill="url(#sig-bg)"/>
+  <rect width="1200" height="230" rx="20" fill="url(#sig-glow)"/>
+
+  <!-- Signature Name -->
+  <text class="sig-serif sig-name" x="600" y="104" text-anchor="middle" font-size="70" font-style="italic" font-weight="300" letter-spacing="-1">Varun Vishwa</text>
+
+  <!-- Divider Rule -->
+  <path class="sig-rule" d="M100 134 H1100" stroke="url(#sig-line)" stroke-width="1"/>
+  <circle cx="600" cy="134" r="3.5" fill="#ffffff" class="sig-in">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Tagline -->
+  <g class="sig-in">
+    <text class="sig-serif" x="600" y="174" text-anchor="middle" font-size="18" font-style="italic" fill="#ffffff">
+      Developing scalable, reliable AI-powered products that solve real-world problems.
+    </text>
+    <text class="sig-mono" x="600" y="204" text-anchor="middle" font-size="11" letter-spacing="3" fill="#df2531">
+      ENGINEERING INTELLIGENCE · DESIGNING EXPERIENCES
+    </text>
+  </g>
+</svg>

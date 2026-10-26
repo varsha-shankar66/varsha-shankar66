@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="ed-t ed-d">
+  <title id="ed-t">Education and Academic Foundation</title>
+  <desc id="ed-d">Dhanalakshmi Srinivasan College of Engineering: B.E. in Computer Science and Engineering. Holy Trinity School: Higher Secondary in Computer Science.</desc>
+  <defs>
+    <linearGradient id="ed-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/></linearGradient>
+    <radialGradient id="ed-glow" cx="80%" cy="20%" r="70%"><stop offset="0" stop-color="#df2531" stop-opacity=".3"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .ed-serif { font-family: Georgia, serif; }
+    .ed-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .ed-sans { font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  </style>
+  <rect width="1200" height="300" rx="20" fill="url(#ed-bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#ed-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+
+  <!-- Card 1: College -->
+  <g class="ed-card" style="animation-delay:0.15s" transform="translate(40, 30)">
+    <rect width="540" height="240" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="240" rx="2" fill="#df2531"/>
+    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">UNDERGRADUATE DEGREE // 2026</text>
+    <text class="ed-serif" x="30" y="78" font-size="27" font-weight="300" fill="#ffffff">
+      Dhanalakshmi Srinivasan
+    </text>
+    <text class="ed-serif" x="30" y="108" font-size="21" font-style="italic" fill="#ff737d">
+      College of Engineering
+    </text>
+    <text class="ed-sans" x="32" y="142" font-size="15.5" font-weight="600" fill="#ffffff">
+      B.E. in Computer Science and Engineering
+    </text>
+    <text class="ed-sans" x="32" y="168" font-size="13" fill="#b3a1a4">
+      Final-Year Student specializing in AI product development, Large Language Models, RAG architectures, and workflow automation.
+    </text>
+    <g transform="translate(32, 194)">
+      <rect width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="12" y="17" font-size="11" fill="#ffffff">Computer Science</text>
+      <rect x="175" width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="187" y="17" font-size="11" fill="#ffffff">AI &amp; Systems Track</text>
+    </g>
+  </g>
+
+  <!-- Card 2: High School -->
+  <g class="ed-card" style="animation-delay:0.35s" transform="translate(620, 30)">
+    <rect width="540" height="240" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="240" rx="2" fill="#df2531"/>
+    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">HIGHER SECONDARY</text>
+    <text class="ed-serif" x="30" y="78" font-size="27" font-weight="300" fill="#ffffff">
+      Holy Trinity School
+    </text>
+    <text class="ed-serif" x="30" y="108" font-size="21" font-style="italic" fill="#ff737d">
+      Higher Secondary Education
+    </text>
+    <text class="ed-sans" x="32" y="142" font-size="15.5" font-weight="600" fill="#ffffff">
+      Computer Science Stream
+    </text>
+    <text class="ed-sans" x="32" y="168" font-size="13" fill="#b3a1a4">
+      Core rigorous training in computer science, algorithmic foundations, programming fundamentals, and mathematics.
+    </text>
+    <g transform="translate(32, 194)">
+      <rect width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="12" y="17" font-size="11" fill="#ffffff">Computer Science</text>
+      <rect x="175" width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="187" y="17" font-size="11" fill="#ffffff">Algorithm Basics</text>
+    </g>
+  </g>
+</svg>

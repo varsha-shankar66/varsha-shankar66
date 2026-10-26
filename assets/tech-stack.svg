@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="tc-title tc-desc">
+  <title id="tc-title">Tech stack</title>
+  <desc id="tc-desc">Languages: Python, Java, C++, SQL. AI/ML: LLMs, RAG, Prompt Engineering, TensorFlow Lite, FAISS, PyMuPDF, Machine Learning. Mobile: Flutter, Firebase, Streamlit. Automation: n8n, Webhooks, REST APIs. Cloud: AWS, Nginx, Git, GitHub, VS Code, Figma, Canva.</desc>
+  <defs>
+    <linearGradient id="tc-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="tc-glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#df2531" stop-opacity=".45"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tc-pulse">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#ff4d5a" stop-opacity=".6"/><stop offset="1" stop-color="#df2531" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .tc-serif { font-family: Georgia, serif; }
+    .tc-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .tc-sans { font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  </style>
+
+  <rect width="1200" height="500" rx="20" fill="url(#tc-bg)"/>
+  <rect width="1200" height="500" rx="20" fill="url(#tc-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="499" rx="19.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+
+  <!-- Constellation grid lines linking panels -->
+  <path class="tc-web" d="M24 250 H1176 M406 24 V476 M794 24 V476" fill="none" stroke="#df2531" stroke-opacity=".2"/>
+  <circle cx="0" cy="250" r="8" fill="url(#tc-pulse)" opacity="0">
+    <animate attributeName="cx" values="24;1176" dur="9s" begin="3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Row 1: 3 Panels -->
+  <!-- Panel 1: Languages -->
+  <g class="tc-panel tc-p1" transform="translate(32 32)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">01  LANGUAGES</text>
+    <text class="tc-serif" x="24" y="94" font-size="38" font-weight="300" fill="#ffffff">Python <tspan font-size="12" class="tc-mono" fill="#df2531" dy="-16">PRIMARY</tspan></text>
+    <text class="tc-serif" x="24" y="142" font-size="30" font-weight="300" fill="#ffffff">SQL · Java</text>
+    <text class="tc-serif" x="24" y="178" font-size="22" font-weight="300" fill="#b3a1a4">C++ · Dart</text>
+  </g>
+
+  <!-- Panel 2: AI, ML &amp; LLMs -->
+  <g class="tc-panel tc-p2" transform="translate(420 32)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">02  AI, ML &amp; LLMS</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">RAG &amp; LLMs</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Prompt Engineering · Embeddings</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">TensorFlow Lite · Hugging Face</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">FAISS Vector DB · PyMuPDF</text>
+  </g>
+
+  <!-- Panel 3: Mobile &amp; Frontend -->
+  <g class="tc-panel tc-p3" transform="translate(808 32)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">03  MOBILE &amp; APP DEV</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Flutter &amp; Firebase</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Mobile Application Architecture</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Offline-First Edge AI</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Streamlit Interactive UIs</text>
+  </g>
+
+  <!-- Row 2: 3 Panels -->
+  <!-- Panel 4: Workflow Automation -->
+  <g class="tc-panel tc-p4" transform="translate(32 268)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">04  AUTOMATION &amp; APIS</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">n8n Automation</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">REST APIs &amp; API Integration</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Event Webhooks &amp; Listeners</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">AI Notification Pipelines</text>
+  </g>
+
+  <!-- Panel 5: Cloud &amp; Infrastructure -->
+  <g class="tc-panel tc-p5" transform="translate(420 268)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">05  CLOUD &amp; DEVOPS</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">AWS &amp; Nginx</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Git &amp; GitHub Version Control</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Edge IoT &amp; Cloud Deployment</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Database Systems &amp; SQL</text>
+  </g>
+
+  <!-- Panel 6: Tools &amp; Design -->
+  <g class="tc-panel tc-p6" transform="translate(808 268)">
+    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">06  TOOLS &amp; DESIGN</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">VS Code &amp; Figma</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Canva UI Assets</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Postman API Testing</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Markdown &amp; Technical Docs</text>
+  </g>
+</svg>
