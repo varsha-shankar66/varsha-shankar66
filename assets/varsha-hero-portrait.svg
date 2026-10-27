@@ -172,9 +172,9 @@
         ✦ PORTFOLIO &amp; ENGINEERING LOG
       </text>
       
-      <!-- Name -->
-      <text class="hero-serif" x="58" y="185" font-size="58" font-weight="300" letter-spacing="-1.5" fill="url(#hero-name-grad)">
-        Varsha K S
+      <!-- Name in Capital Letters -->
+      <text class="hero-serif" x="58" y="185" font-size="52" font-weight="400" letter-spacing="1.5" fill="url(#hero-name-grad)">
+        VARSHA K S
       </text>
 
       <!-- Subtitle -->
