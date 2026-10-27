@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="tc-title tc-desc">
   <title id="tc-title">Tech stack</title>
-  <desc id="tc-desc">Languages: Python, Java, C++, SQL. AI/ML: LLMs, RAG, Prompt Engineering, TensorFlow Lite, FAISS, PyMuPDF, Machine Learning. Mobile: Flutter, Firebase, Streamlit. Automation: n8n, Webhooks, REST APIs. Cloud: AWS, Nginx, Git, GitHub, VS Code, Figma, Canva.</desc>
+  <desc id="tc-desc">ServiceNow: CAD, Flow Designer, ATF, Business Rules, Client Scripts, Service Portal. Languages: Java, Python, SQL, JavaScript. AI/ML: Machine Learning, Deep Learning, Generative AI, NLP, Scikit-Learn. Data: Pandas, NumPy, EDA, Plotly. Web: MERN Stack, REST APIs. Tools: Git, GitHub, VS Code, Jupyter, Colab.</desc>
   <defs>
     <linearGradient id="tc-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/>
@@ -30,63 +30,63 @@
   </circle>
 
   <!-- Row 1: 3 Panels -->
-  <!-- Panel 1: Languages -->
+  <!-- Panel 1: ServiceNow Platform -->
   <g class="tc-panel tc-p1" transform="translate(32 32)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">01  LANGUAGES</text>
-    <text class="tc-serif" x="24" y="94" font-size="38" font-weight="300" fill="#ffffff">Python <tspan font-size="12" class="tc-mono" fill="#df2531" dy="-16">PRIMARY</tspan></text>
-    <text class="tc-serif" x="24" y="142" font-size="30" font-weight="300" fill="#ffffff">SQL · Java</text>
-    <text class="tc-serif" x="24" y="178" font-size="22" font-weight="300" fill="#b3a1a4">C++ · Dart</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">01  SERVICENOW PLATFORM</text>
+    <text class="tc-serif" x="24" y="86" font-size="30" font-weight="300" fill="#ffffff">Certified CAD <tspan font-size="11" class="tc-mono" fill="#df2531" dy="-12">VERIFIED</tspan></text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Flow Designer · ATF Testing</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Business Rules · Client Scripts · ACLs</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Service Portal · Catalog Items · Reporting</text>
   </g>
 
-  <!-- Panel 2: AI, ML &amp; LLMs -->
+  <!-- Panel 2: Programming Languages -->
   <g class="tc-panel tc-p2" transform="translate(420 32)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">02  AI, ML &amp; LLMS</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">RAG &amp; LLMs</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Prompt Engineering · Embeddings</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">TensorFlow Lite · Hugging Face</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">FAISS Vector DB · PyMuPDF</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">02  PROGRAMMING</text>
+    <text class="tc-serif" x="24" y="94" font-size="36" font-weight="300" fill="#ffffff">Java · Python</text>
+    <text class="tc-serif" x="24" y="142" font-size="28" font-weight="300" fill="#ffffff">SQL · JavaScript</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Object-Oriented Programming &amp; Scripting</text>
   </g>
 
-  <!-- Panel 3: Mobile &amp; Frontend -->
+  <!-- Panel 3: AI &amp; Machine Learning -->
   <g class="tc-panel tc-p3" transform="translate(808 32)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">03  MOBILE &amp; APP DEV</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Flutter &amp; Firebase</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Mobile Application Architecture</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Offline-First Edge AI</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Streamlit Interactive UIs</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">03  AI &amp; MACHINE LEARNING</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Machine Learning</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Deep Learning · Generative AI</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">NLP &amp; Predictive Modelling</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">AI Application Development &amp; PyTorch</text>
   </g>
 
   <!-- Row 2: 3 Panels -->
-  <!-- Panel 4: Workflow Automation -->
+  <!-- Panel 4: Data &amp; Analytics -->
   <g class="tc-panel tc-p4" transform="translate(32 268)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">04  AUTOMATION &amp; APIS</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">n8n Automation</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">REST APIs &amp; API Integration</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Event Webhooks &amp; Listeners</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">AI Notification Pipelines</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">04  DATA &amp; ANALYTICS</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Pandas &amp; NumPy</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">EDA &amp; Statistical Analysis</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Scikit-Learn · Model Evaluation</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Plotly · OpenCV · Data Visualization</text>
   </g>
 
-  <!-- Panel 5: Cloud &amp; Infrastructure -->
+  <!-- Panel 5: Web &amp; App Development -->
   <g class="tc-panel tc-p5" transform="translate(420 268)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">05  CLOUD &amp; DEVOPS</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">AWS &amp; Nginx</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Git &amp; GitHub Version Control</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Edge IoT &amp; Cloud Deployment</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Database Systems &amp; SQL</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">05  WEB &amp; FULL-STACK</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">MERN Stack</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">RESTful APIs &amp; Web Services</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">MongoDB &amp; Database Integration</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Streamlit UIs &amp; Interactive Web Apps</text>
   </g>
 
-  <!-- Panel 6: Tools &amp; Design -->
+  <!-- Panel 6: Tools &amp; Environments -->
   <g class="tc-panel tc-p6" transform="translate(808 268)">
     <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">06  TOOLS &amp; DESIGN</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">VS Code &amp; Figma</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Canva UI Assets</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Postman API Testing</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Markdown &amp; Technical Docs</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">06  TOOLS &amp; PLATFORMS</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Git &amp; GitHub</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">VS Code &amp; Jupyter Notebook</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Google Colab Cloud Training</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">ServiceNow AI Platform &amp; ATF</text>
   </g>
 </svg>

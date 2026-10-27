@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p-t-02">
+  <title id="p-t-02">SmartIT: AI-Assisted IT Incident Management</title>
+  <defs>
+    <linearGradient id="p-bg-02" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="p-glow-02" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#df2531" stop-opacity=".45"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p-grid-02" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#df2531" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="p-clip-02"><rect width="1200" height="370" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .p-serif { font-family: Georgia, serif; }
+    .p-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .p-sans { font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  </style>
+  <g clip-path="url(#p-clip-02)">
+    <rect width="1200" height="370" fill="url(#p-bg-02)"/>
+    <rect x="720" width="480" height="370" fill="url(#p-grid-02)"/>
+    <rect width="1200" height="370" fill="url(#p-glow-02)"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+    
+    <g class="p-in p-d1">
+      <text class="p-mono" x="56" y="60" font-size="12" letter-spacing="2.6" fill="#df2531">02 · ServiceNow · Flow Designer · AI-Assisted · ITSM</text>
+      <text class="p-serif" x="54" y="120" font-size="44" font-weight="300" letter-spacing="-1.5" fill="#ffffff">SmartIT Incident Mgmt</text>
+      <text class="p-sans" x="56" y="160" font-size="16.5" fill="#ffffff">AI-assisted IT incident management with automated classification &amp; routing.</text>
+      <text class="p-mono" x="56" y="196" font-size="12" fill="#b3a1a4"><tspan fill="#df2531">BUILT ›</tspan> Automated incident triage, priority recommendations, assignment group routing, SLA tracking</text>
+      <line class="p-draw" x1="56" y1="222" x2="680" y2="222" stroke="#df2531" stroke-opacity=".35" stroke-width="1.2"/>
+      
+      <g transform="translate(56 262)">
+        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">Smart</text>
+        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">incident triage</text>
+      </g>
+      <g transform="translate(261 262)">
+        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">AI-Guided</text>
+        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">priority recommendation</text>
+      </g>
+      <g transform="translate(466 262)">
+        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">Zero</text>
+        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">SLA breach tracking</text>
+      </g>
+      
+      <g transform="translate(0, 0)">
+        <g class="p-chip"><rect x="56" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="108" y="331" text-anchor="middle" font-size="11" fill="#ffffff">ServiceNow</text></g>
+        <g class="p-chip"><rect x="171" y="314" width="115" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="228" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Flow Designer</text></g>
+        <g class="p-chip"><rect x="296" y="314" width="115" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="353" y="331" text-anchor="middle" font-size="11" fill="#ffffff">AI Classify</text></g>
+        <g class="p-chip"><rect x="421" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="473" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Client Scripts</text></g>
+        <g class="p-chip"><rect x="536" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="588" y="331" text-anchor="middle" font-size="11" fill="#ffffff">UI Policies</text></g>
+        <g class="p-chip"><rect x="651" y="314" width="85" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="693" y="331" text-anchor="middle" font-size="11" fill="#ffffff">SLA Mgmt</text></g>
+      </g>
+    </g>
+
+    <!-- Architecture Visual Card Right -->
+    <g class="p-in p-d2" transform="translate(790, 60)">
+      <rect width="350" height="250" rx="14" fill="#0c0204" stroke="#df2531" stroke-opacity=".35" stroke-width="1.2"/>
+      <text class="p-mono" x="24" y="34" font-size="11" font-weight="700" fill="#df2531">AI INCIDENT WORKFLOW</text>
+      
+      <g transform="translate(24, 52)">
+        <rect width="135" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">📥 Incident Intake</text>
+      </g>
+      <path d="M 170 70 L 190 70" stroke="#df2531" stroke-width="1.5" />
+      <g transform="translate(200, 52)">
+        <rect width="125" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🧠 AI Categorizer</text>
+      </g>
+
+      <path d="M 262 98 L 262 116" stroke="#df2531" stroke-width="1.5" />
+
+      <g transform="translate(24, 126)">
+        <rect width="135" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🎯 Priority Engine</text>
+      </g>
+      <path d="M 190 144 L 170 144" stroke="#df2531" stroke-width="1.5" />
+      <g transform="translate(200, 126)">
+        <rect width="125" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">⚡ Flow Dispatch</text>
+      </g>
+
+      <g transform="translate(24, 185)">
+        <rect width="302" height="40" rx="8" fill="#1c0407" stroke="#df2531" stroke-width="1"/>
+        <text class="p-mono" x="16" y="25" font-size="11" font-weight="700" fill="#ffffff">✓ Assignment Group &amp; Live SLA Dashboards</text>
+      </g>
+    </g>
+  </g>
+</svg>

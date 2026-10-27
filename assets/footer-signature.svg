@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="sig-title">
-  <title id="sig-title">Varun Vishwa — Developing scalable, reliable AI-powered products that solve real-world problems.</title>
+  <title id="sig-title">Varsha K S — Building scalable applications, workflow automation, and AI-driven solutions.</title>
   <defs>
     <linearGradient id="sig-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#000000"/>
@@ -30,7 +30,7 @@
   <rect width="1200" height="230" rx="20" fill="url(#sig-glow)"/>
 
   <!-- Signature Name -->
-  <text class="sig-serif sig-name" x="600" y="104" text-anchor="middle" font-size="70" font-style="italic" font-weight="300" letter-spacing="-1">Varun Vishwa</text>
+  <text class="sig-serif sig-name" x="600" y="104" text-anchor="middle" font-size="64" font-style="italic" font-weight="300" letter-spacing="-1">Varsha K S</text>
 
   <!-- Divider Rule -->
   <path class="sig-rule" d="M100 134 H1100" stroke="url(#sig-line)" stroke-width="1"/>
@@ -41,10 +41,10 @@
   <!-- Tagline -->
   <g class="sig-in">
     <text class="sig-serif" x="600" y="174" text-anchor="middle" font-size="18" font-style="italic" fill="#ffffff">
-      Developing scalable, reliable AI-powered products that solve real-world problems.
+      Building scalable applications, workflow automation, and AI-driven solutions.
     </text>
     <text class="sig-mono" x="600" y="204" text-anchor="middle" font-size="11" letter-spacing="3" fill="#df2531">
-      ENGINEERING INTELLIGENCE · DESIGNING EXPERIENCES
+      SERVICENOW CERTIFIED APPLICATION DEVELOPER · AI &amp; DATA SCIENCE
     </text>
   </g>
 </svg>

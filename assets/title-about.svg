@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="01 ABOUT: Hello, I'm Varun.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="01 ABOUT: Hello, I'm Varsha.">
   <defs>
     <linearGradient id="t-line-01" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
       <stop offset="0" stop-color="#df2531"/><stop offset=".6" stop-color="#5a1015"/><stop offset="1" stop-color="#5a1015" stop-opacity="0"/>
@@ -17,7 +17,7 @@
     <text class="t-mono" x="40" y="32" font-size="12" letter-spacing="3" fill="#df2531"><tspan fill="#ffffff">01</tspan>   ABOUT</text>
   </g>
   <g class="t-in t-d2">
-    <text class="t-serif" x="38" y="76" font-size="38" font-weight="300" letter-spacing="-1" fill="#ffffff">Hello, <tspan font-style="italic" fill="url(#t-sheen-01)">I'm Varun.</tspan></text>
+    <text class="t-serif" x="38" y="76" font-size="38" font-weight="300" letter-spacing="-1" fill="#ffffff">Hello, <tspan font-style="italic" fill="url(#t-sheen-01)">I'm Varsha.</tspan></text>
   </g>
   <g class="t-in t-d3">
     <text class="t-mono" x="1160" y="32" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#df2531">WHO I AM</text>

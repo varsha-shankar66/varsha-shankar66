@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="ed-t ed-d">
-  <title id="ed-t">Education and Academic Foundation</title>
-  <desc id="ed-d">Dhanalakshmi Srinivasan College of Engineering: B.E. in Computer Science and Engineering. Holy Trinity School: Higher Secondary in Computer Science.</desc>
+  <title id="ed-t">Education &amp; Experience Highlights</title>
+  <desc id="ed-d">Dhanalakshmi Srinivasan College of Engineering: B.Tech in Artificial Intelligence and Data Science. Professional Internships at Maiyyam Knowledge, KITES Softwares, and CodeBind Technologies.</desc>
   <defs>
     <linearGradient id="ed-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/></linearGradient>
     <radialGradient id="ed-glow" cx="80%" cy="20%" r="70%"><stop offset="0" stop-color="#df2531" stop-opacity=".3"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/></radialGradient>
@@ -15,52 +15,56 @@
   <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
 
   <!-- Card 1: College -->
-  <g class="ed-card" style="animation-delay:0.15s" transform="translate(40, 30)">
+  <g class="ed-card" transform="translate(40, 30)">
     <rect width="540" height="240" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
     <rect x="0" y="0" width="4" height="240" rx="2" fill="#df2531"/>
-    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">UNDERGRADUATE DEGREE // 2026</text>
-    <text class="ed-serif" x="30" y="78" font-size="27" font-weight="300" fill="#ffffff">
+    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">UNDERGRADUATE DEGREE // 2023 – 2027</text>
+    <text class="ed-serif" x="30" y="78" font-size="26" font-weight="300" fill="#ffffff">
       Dhanalakshmi Srinivasan
     </text>
     <text class="ed-serif" x="30" y="108" font-size="21" font-style="italic" fill="#ff737d">
       College of Engineering
     </text>
-    <text class="ed-sans" x="32" y="142" font-size="15.5" font-weight="600" fill="#ffffff">
-      B.E. in Computer Science and Engineering
+    <text class="ed-sans" x="32" y="142" font-size="15" font-weight="600" fill="#ffffff">
+      B.Tech in Artificial Intelligence &amp; Data Science
     </text>
     <text class="ed-sans" x="32" y="168" font-size="13" fill="#b3a1a4">
-      Final-Year Student specializing in AI product development, Large Language Models, RAG architectures, and workflow automation.
+      Academic Standing: CGPA 8.65. Solid foundation in ServiceNow CAD, Flow Designer, Machine Learning algorithms &amp; Full-Stack systems.
     </text>
     <g transform="translate(32, 194)">
       <rect width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
-      <text class="ed-mono" x="12" y="17" font-size="11" fill="#ffffff">Computer Science</text>
-      <rect x="175" width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
-      <text class="ed-mono" x="187" y="17" font-size="11" fill="#ffffff">AI &amp; Systems Track</text>
+      <text class="ed-mono" x="15" y="17" font-size="11" fill="#ffffff">AI &amp; Data Science</text>
+      <rect x="175" width="115" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="190" y="17" font-size="11" fill="#ffffff">CGPA: 8.65</text>
+      <rect x="300" width="175" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="312" y="17" font-size="11" fill="#ffffff">ServiceNow CAD</text>
     </g>
   </g>
 
-  <!-- Card 2: High School -->
-  <g class="ed-card" style="animation-delay:0.35s" transform="translate(620, 30)">
+  <!-- Card 2: Professional Internships -->
+  <g class="ed-card" transform="translate(620, 30)">
     <rect width="540" height="240" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
     <rect x="0" y="0" width="4" height="240" rx="2" fill="#df2531"/>
-    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">HIGHER SECONDARY</text>
-    <text class="ed-serif" x="30" y="78" font-size="27" font-weight="300" fill="#ffffff">
-      Holy Trinity School
+    <text class="ed-mono" x="32" y="36" font-size="11" letter-spacing="2.4" fill="#df2531">PROFESSIONAL EXPERIENCE // INTERNSHIPS</text>
+    <text class="ed-serif" x="30" y="78" font-size="26" font-weight="300" fill="#ffffff">
+      Full-Stack &amp; AI Engineering
     </text>
     <text class="ed-serif" x="30" y="108" font-size="21" font-style="italic" fill="#ff737d">
-      Higher Secondary Education
+      Practical Industry Training
     </text>
-    <text class="ed-sans" x="32" y="142" font-size="15.5" font-weight="600" fill="#ffffff">
-      Computer Science Stream
+    <text class="ed-sans" x="32" y="142" font-size="15" font-weight="600" fill="#ffffff">
+      Maiyyam Knowledge · KITES Softwares · CodeBind
     </text>
     <text class="ed-sans" x="32" y="168" font-size="13" fill="#b3a1a4">
-      Core rigorous training in computer science, algorithmic foundations, programming fundamentals, and mathematics.
+      Built responsive MERN apps, backend REST API integrations, applied AI problem-solving, and developed ML pipeline foundations.
     </text>
     <g transform="translate(32, 194)">
-      <rect width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
-      <text class="ed-mono" x="12" y="17" font-size="11" fill="#ffffff">Computer Science</text>
-      <rect x="175" width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
-      <text class="ed-mono" x="187" y="17" font-size="11" fill="#ffffff">Algorithm Basics</text>
+      <rect width="145" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="14" y="17" font-size="11" fill="#ffffff">MERN Full-Stack</text>
+      <rect x="155" width="145" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="168" y="17" font-size="11" fill="#ffffff">Python &amp; ML Intern</text>
+      <rect x="310" width="165" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/>
+      <text class="ed-mono" x="324" y="17" font-size="11" fill="#ffffff">API &amp; DB Integration</text>
     </g>
   </g>
 </svg>
