@@ -39,7 +39,7 @@
       </g>
       <g transform="translate(261 262)">
         <text class="p-serif" font-size="34" font-weight="300" fill="#6EC9E8">Healthcare</text>
-        <text class="p-sans" y="24" font-size="12" fill="#C5B8DA">EDA & feature engineering</text>
+        <text class="p-sans" y="24" font-size="12" fill="#C5B8DA">EDA &amp; feature engineering</text>
       </g>
       <g transform="translate(466 262)">
         <text class="p-serif" font-size="34" font-weight="300" fill="#D58BE8">Streamlit</text>
@@ -63,7 +63,7 @@
       <path d="M 170 70 L 190 70" stroke="#6EC9E8" stroke-width="1.8" />
       <g transform="translate(200, 52)">
         <rect width="125" height="36" rx="6" fill="#0B1C3B" stroke="#D58BE8" stroke-opacity=".6" stroke-width="0.9"/>
-        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🔬 EDA & Clean</text>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🔬 EDA &amp; Clean</text>
       </g>
 
       <path d="M 262 98 L 262 116" stroke="#D58BE8" stroke-width="1.8" />
@@ -80,7 +80,7 @@
 
       <g transform="translate(24, 185)">
         <rect width="302" height="40" rx="8" fill="#141E42" stroke="#6EC9E8" stroke-width="1.2"/>
-        <text class="p-mono" x="16" y="25" font-size="11" font-weight="700" fill="#F6D48F">✓ Interactive Streamlit & Plotly Analytics</text>
+        <text class="p-mono" x="16" y="25" font-size="11" font-weight="700" fill="#F6D48F">✓ Interactive Streamlit &amp; Plotly Analytics</text>
       </g>
     </g>
   </g>
