@@ -3,13 +3,13 @@
   <desc id="tc-desc">ServiceNow: CAD, Flow Designer, ATF, Business Rules, Client Scripts, Service Portal. Languages: Java, Python, SQL, JavaScript. AI/ML: Machine Learning, Deep Learning, Generative AI, NLP, Scikit-Learn. Data: Pandas, NumPy, EDA, Plotly. Web: MERN Stack, REST APIs. Tools: Git, GitHub, VS Code, Jupyter, Colab.</desc>
   <defs>
     <linearGradient id="tc-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/>
+      <stop offset="0" stop-color="#050B17"/><stop offset="1" stop-color="#0B1C3B"/>
     </linearGradient>
     <radialGradient id="tc-glow" cx="50%" cy="50%" r="60%">
-      <stop offset="0" stop-color="#df2531" stop-opacity=".45"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7A4BA8" stop-opacity=".4"/><stop offset="100%" stop-color="#0B1C3B" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="tc-pulse">
-      <stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#ff4d5a" stop-opacity=".6"/><stop offset="1" stop-color="#df2531" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#6EC9E8" stop-opacity=".7"/><stop offset="1" stop-color="#7A4BA8" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <style>
@@ -20,10 +20,10 @@
 
   <rect width="1200" height="500" rx="20" fill="url(#tc-bg)"/>
   <rect width="1200" height="500" rx="20" fill="url(#tc-glow)"/>
-  <rect x=".5" y=".5" width="1199" height="499" rx="19.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+  <rect x=".5" y=".5" width="1199" height="499" rx="19.5" fill="none" stroke="#7A4BA8" stroke-opacity=".4"/>
 
   <!-- Constellation grid lines linking panels -->
-  <path class="tc-web" d="M24 250 H1176 M406 24 V476 M794 24 V476" fill="none" stroke="#df2531" stroke-opacity=".2"/>
+  <path d="M24 250 H1176 M406 24 V476 M794 24 V476" fill="none" stroke="#6EC9E8" stroke-opacity=".15"/>
   <circle cx="0" cy="250" r="8" fill="url(#tc-pulse)" opacity="0">
     <animate attributeName="cx" values="24;1176" dur="9s" begin="3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/>
     <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="9s" begin="3s" repeatCount="indefinite"/>
@@ -31,62 +31,62 @@
 
   <!-- Row 1: 3 Panels -->
   <!-- Panel 1: ServiceNow Platform -->
-  <g class="tc-panel tc-p1" transform="translate(32 32)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">01  SERVICENOW PLATFORM</text>
-    <text class="tc-serif" x="24" y="86" font-size="30" font-weight="300" fill="#ffffff">Certified CAD <tspan font-size="11" class="tc-mono" fill="#df2531" dy="-12">VERIFIED</tspan></text>
+  <g class="tc-panel" transform="translate(32 32)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#6EC9E8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#6EC9E8">01  SERVICENOW PLATFORM</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#F6D48F">Certified CAD <tspan font-size="11" class="tc-mono" fill="#6EC9E8" dy="-10">VERIFIED</tspan></text>
     <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Flow Designer · ATF Testing</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Business Rules · Client Scripts · ACLs</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Service Portal · Catalog Items · Reporting</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#D58BE8">Business Rules · Client Scripts · ACLs</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">Service Portal · Catalog Items · Reporting</text>
   </g>
 
   <!-- Panel 2: Programming Languages -->
-  <g class="tc-panel tc-p2" transform="translate(420 32)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">02  PROGRAMMING</text>
-    <text class="tc-serif" x="24" y="94" font-size="36" font-weight="300" fill="#ffffff">Java · Python</text>
-    <text class="tc-serif" x="24" y="142" font-size="28" font-weight="300" fill="#ffffff">SQL · JavaScript</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Object-Oriented Programming &amp; Scripting</text>
+  <g class="tc-panel" transform="translate(420 32)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#7A4BA8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#D58BE8">02  PROGRAMMING</text>
+    <text class="tc-serif" x="24" y="94" font-size="34" font-weight="300" fill="#ffffff">Java · Python</text>
+    <text class="tc-serif" x="24" y="142" font-size="26" font-weight="300" fill="#F6D48F">SQL · JavaScript</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">Object-Oriented Architecture &amp; Scripting</text>
   </g>
 
-  <!-- Panel 3: AI &amp; Machine Learning -->
-  <g class="tc-panel tc-p3" transform="translate(808 32)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">03  AI &amp; MACHINE LEARNING</text>
+  <!-- Panel 3: AI & Machine Learning -->
+  <g class="tc-panel" transform="translate(808 32)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#D58BE8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#F6D48F">03  AI &amp; MACHINE LEARNING</text>
     <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Machine Learning</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">Deep Learning · Generative AI</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">NLP &amp; Predictive Modelling</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">AI Application Development &amp; PyTorch</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#6EC9E8">Deep Learning · Generative AI</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#D58BE8">NLP &amp; Predictive Modelling</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">AI Application Development &amp; PyTorch</text>
   </g>
 
   <!-- Row 2: 3 Panels -->
-  <!-- Panel 4: Data &amp; Analytics -->
-  <g class="tc-panel tc-p4" transform="translate(32 268)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">04  DATA &amp; ANALYTICS</text>
+  <!-- Panel 4: Data & Analytics -->
+  <g class="tc-panel" transform="translate(32 268)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#7A4BA8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#6EC9E8">04  DATA &amp; ANALYTICS</text>
     <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Pandas &amp; NumPy</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">EDA &amp; Statistical Analysis</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#D58BE8">EDA &amp; Statistical Analysis</text>
     <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Scikit-Learn · Model Evaluation</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Plotly · OpenCV · Data Visualization</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">Plotly · OpenCV · Data Visualization</text>
   </g>
 
-  <!-- Panel 5: Web &amp; App Development -->
-  <g class="tc-panel tc-p5" transform="translate(420 268)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">05  WEB &amp; FULL-STACK</text>
-    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">MERN Stack</text>
+  <!-- Panel 5: Web & App Development -->
+  <g class="tc-panel" transform="translate(420 268)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#6EC9E8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#D58BE8">05  WEB &amp; FULL-STACK</text>
+    <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#F6D48F">MERN Stack</text>
     <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">RESTful APIs &amp; Web Services</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">MongoDB &amp; Database Integration</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">Streamlit UIs &amp; Interactive Web Apps</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#6EC9E8">MongoDB &amp; Database Integration</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">Streamlit UIs &amp; Interactive Web Apps</text>
   </g>
 
-  <!-- Panel 6: Tools &amp; Environments -->
-  <g class="tc-panel tc-p6" transform="translate(808 268)">
-    <rect width="360" height="200" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#df2531">06  TOOLS &amp; PLATFORMS</text>
+  <!-- Panel 6: Tools & Platforms -->
+  <g class="tc-panel" transform="translate(808 268)">
+    <rect width="360" height="200" rx="14" fill="#0B1C3B" stroke="#D58BE8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#F6D48F">06  TOOLS &amp; PLATFORMS</text>
     <text class="tc-serif" x="24" y="86" font-size="28" font-weight="300" fill="#ffffff">Git &amp; GitHub</text>
-    <text class="tc-sans" x="24" y="118" font-size="14" fill="#ffffff">VS Code &amp; Jupyter Notebook</text>
-    <text class="tc-sans" x="24" y="146" font-size="14" fill="#ffffff">Google Colab Cloud Training</text>
-    <text class="tc-sans" x="24" y="174" font-size="13" fill="#b3a1a4">ServiceNow AI Platform &amp; ATF</text>
+    <text class="tc-sans" x="24" y="118" font-size="14" fill="#D58BE8">VS Code &amp; Jupyter Notebook</text>
+    <text class="tc-sans" x="24" y="146" font-size="14" fill="#6EC9E8">Google Colab Cloud Training</text>
+    <text class="tc-sans" x="24" y="174" font-size="13" fill="#C5B8DA">ServiceNow AI Platform &amp; ATF</text>
   </g>
 </svg>

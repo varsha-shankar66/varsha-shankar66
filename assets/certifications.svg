@@ -2,8 +2,8 @@
   <title id="ce-t">Certifications &amp; Credentials</title>
   <desc id="ce-d">ServiceNow Certified Application Developer (CAD); IBM SkillsBuild Introduction to Generative AI; Generative AI Mastery Workshop by NXT WAVE and OpenAI Academy; MongoDB Basics For Students by MongoDB.</desc>
   <defs>
-    <linearGradient id="ce-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/></linearGradient>
-    <radialGradient id="ce-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#df2531" stop-opacity=".35"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ce-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B17"/><stop offset="100%" stop-color="#0B1C3B"/></linearGradient>
+    <radialGradient id="ce-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#7A4BA8" stop-opacity=".4"/><stop offset="100%" stop-color="#0B1C3B" stop-opacity="0"/></radialGradient>
   </defs>
   <style>
     .ce-serif { font-family: Georgia, serif; }
@@ -12,47 +12,47 @@
   </style>
   <rect width="1200" height="420" rx="20" fill="url(#ce-bg)"/>
   <rect width="1200" height="420" rx="20" fill="url(#ce-glow)"/>
-  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#7A4BA8" stroke-opacity=".4"/>
 
   <!-- Row 1: 2 Tiles -->
   <g class="ce-tile" transform="translate(60, 40)">
-    <rect width="520" height="155" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#df2531">SERVICENOW · OFFICIAL CERTIFICATION</text>
-    <circle cx="485" cy="28" r="4.5" fill="#df2531"/>
-    <line x1="24" y1="50" x2="495" y2="50" stroke="#df2531" stroke-opacity=".3"/>
-    <text class="ce-serif" x="24" y="86" font-size="22" font-weight="300" fill="#ffffff">Certified Application Developer (CAD)</text>
+    <rect width="520" height="155" rx="14" fill="#0B1C3B" stroke="#6EC9E8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#6EC9E8">SERVICENOW · OFFICIAL CERTIFICATION</text>
+    <circle cx="485" cy="28" r="4.5" fill="#F6D48F"/>
+    <line x1="24" y1="50" x2="495" y2="50" stroke="#6EC9E8" stroke-opacity=".3"/>
+    <text class="ce-serif" x="24" y="86" font-size="22" font-weight="300" fill="#F6D48F">Certified Application Developer (CAD)</text>
     <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#ffffff">ServiceNow Certified Professional</text>
-    <text class="ce-sans" x="24" y="134" font-size="12" fill="#b3a1a4">Application Development, Flow Designer, ATF, ITSM &amp; ACLs</text>
+    <text class="ce-sans" x="24" y="134" font-size="12" fill="#C5B8DA">Application Development, Flow Designer, ATF, ITSM &amp; ACLs</text>
   </g>
 
   <g class="ce-tile" transform="translate(620, 40)">
-    <rect width="520" height="155" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#df2531">IBM SKILLSBUILD</text>
-    <circle cx="485" cy="28" r="4.5" fill="#df2531"/>
-    <line x1="24" y1="50" x2="495" y2="50" stroke="#df2531" stroke-opacity=".3"/>
+    <rect width="520" height="155" rx="14" fill="#0B1C3B" stroke="#D58BE8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#D58BE8">IBM SKILLSBUILD</text>
+    <circle cx="485" cy="28" r="4.5" fill="#F6D48F"/>
+    <line x1="24" y1="50" x2="495" y2="50" stroke="#D58BE8" stroke-opacity=".3"/>
     <text class="ce-serif" x="24" y="86" font-size="22" font-weight="300" fill="#ffffff">Introduction to Generative AI</text>
-    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#ffffff">IBM SkillsBuild Credential</text>
-    <text class="ce-sans" x="24" y="134" font-size="12" fill="#b3a1a4">Foundation models, generative architectures &amp; prompt engineering</text>
+    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#6EC9E8">IBM SkillsBuild Credential</text>
+    <text class="ce-sans" x="24" y="134" font-size="12" fill="#C5B8DA">Foundation models, generative architectures &amp; prompt engineering</text>
   </g>
 
   <!-- Row 2: 2 Tiles -->
   <g class="ce-tile" transform="translate(60, 225)">
-    <rect width="520" height="155" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#df2531">NXT WAVE &amp; OPENAI ACADEMY</text>
-    <circle cx="485" cy="28" r="4.5" fill="#df2531"/>
-    <line x1="24" y1="50" x2="495" y2="50" stroke="#df2531" stroke-opacity=".3"/>
+    <rect width="520" height="155" rx="14" fill="#0B1C3B" stroke="#7A4BA8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#F6D48F">NXT WAVE &amp; OPENAI ACADEMY</text>
+    <circle cx="485" cy="28" r="4.5" fill="#F6D48F"/>
+    <line x1="24" y1="50" x2="495" y2="50" stroke="#7A4BA8" stroke-opacity=".3"/>
     <text class="ce-serif" x="24" y="86" font-size="22" font-weight="300" fill="#ffffff">Generative AI Mastery Workshop</text>
-    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#ffffff">NXT WAVE &amp; OpenAI Academy</text>
-    <text class="ce-sans" x="24" y="134" font-size="12" fill="#b3a1a4">Applied Generative AI, workflow intelligence &amp; LLM capabilities</text>
+    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#D58BE8">NXT WAVE &amp; OpenAI Academy</text>
+    <text class="ce-sans" x="24" y="134" font-size="12" fill="#C5B8DA">Applied Generative AI, workflow intelligence &amp; LLM capabilities</text>
   </g>
 
   <g class="ce-tile" transform="translate(620, 225)">
-    <rect width="520" height="155" rx="14" fill="#120305" stroke="#df2531" stroke-opacity=".35" stroke-width="1"/>
-    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#df2531">MONGODB</text>
-    <circle cx="485" cy="28" r="4.5" fill="#df2531"/>
-    <line x1="24" y1="50" x2="495" y2="50" stroke="#df2531" stroke-opacity=".3"/>
+    <rect width="520" height="155" rx="14" fill="#0B1C3B" stroke="#6EC9E8" stroke-opacity=".6" stroke-width="1.2"/>
+    <text class="ce-mono" x="24" y="34" font-size="11" letter-spacing="2.6" fill="#6EC9E8">MONGODB</text>
+    <circle cx="485" cy="28" r="4.5" fill="#F6D48F"/>
+    <line x1="24" y1="50" x2="495" y2="50" stroke="#6EC9E8" stroke-opacity=".3"/>
     <text class="ce-serif" x="24" y="86" font-size="22" font-weight="300" fill="#ffffff">MongoDB Basics For Students</text>
-    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#ffffff">MongoDB Student Credential</text>
-    <text class="ce-sans" x="24" y="134" font-size="12" fill="#b3a1a4">Document database design, schema architecture &amp; CRUD operations</text>
+    <text class="ce-sans" x="24" y="112" font-size="13.5" fill="#6EC9E8">MongoDB Student Credential</text>
+    <text class="ce-sans" x="24" y="134" font-size="12" fill="#C5B8DA">Document database design, schema architecture &amp; CRUD operations</text>
   </g>
 </svg>

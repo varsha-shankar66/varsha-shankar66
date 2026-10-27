@@ -2,24 +2,26 @@
   <title id="sig-title">Varsha K S — Building scalable applications, workflow automation, and AI-driven solutions.</title>
   <defs>
     <linearGradient id="sig-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#000000"/>
-      <stop offset="1" stop-color="#140305"/>
+      <stop offset="0" stop-color="#050B17"/>
+      <stop offset="1" stop-color="#0B1C3B"/>
     </linearGradient>
     <radialGradient id="sig-glow" cx="50%" cy="100%" r="70%">
-      <stop offset="0" stop-color="#df2531" stop-opacity=".5"/>
-      <stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7A4BA8" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#0B1C3B" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="sig-line" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="1100" y2="0">
-      <stop offset="0" stop-color="#df2531" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#df2531"/>
-      <stop offset="1" stop-color="#df2531" stop-opacity="0"/>
+      <stop offset="0" stop-color="#6EC9E8" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#6EC9E8"/>
+      <stop offset=".5" stop-color="#D58BE8"/>
+      <stop offset=".8" stop-color="#7A4BA8"/>
+      <stop offset="1" stop-color="#0B1C3B" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <style>
     .sig-serif { font-family: Georgia, serif; }
     .sig-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
     .sig-name {
-      stroke: #df2531; stroke-width: 1.2; fill: #ffffff; fill-opacity: 0;
+      stroke: #6EC9E8; stroke-width: 1.2; fill: #ffffff; fill-opacity: 0;
       stroke-dasharray: 900; stroke-dashoffset: 900;
       animation: sig-write 3.6s cubic-bezier(.65,0,.35,1) .3s forwards;
     }
@@ -33,18 +35,18 @@
   <text class="sig-serif sig-name" x="600" y="104" text-anchor="middle" font-size="64" font-style="italic" font-weight="300" letter-spacing="-1">Varsha K S</text>
 
   <!-- Divider Rule -->
-  <path class="sig-rule" d="M100 134 H1100" stroke="url(#sig-line)" stroke-width="1"/>
-  <circle cx="600" cy="134" r="3.5" fill="#ffffff" class="sig-in">
+  <path class="sig-rule" d="M100 134 H1100" stroke="url(#sig-line)" stroke-width="1.4"/>
+  <circle cx="600" cy="134" r="4" fill="#F6D48F">
     <animate attributeName="r" values="3.5;5.5;3.5" dur="3.2s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Tagline -->
-  <g class="sig-in">
+  <g>
     <text class="sig-serif" x="600" y="174" text-anchor="middle" font-size="18" font-style="italic" fill="#ffffff">
       Building scalable applications, workflow automation, and AI-driven solutions.
     </text>
-    <text class="sig-mono" x="600" y="204" text-anchor="middle" font-size="11" letter-spacing="3" fill="#df2531">
-      SERVICENOW CERTIFIED APPLICATION DEVELOPER · AI &amp; DATA SCIENCE
+    <text class="sig-mono" x="600" y="204" text-anchor="middle" font-size="11" letter-spacing="3" fill="#6EC9E8">
+      ✦ SERVICENOW CERTIFIED APPLICATION DEVELOPER · AI &amp; DATA SCIENCE ✦
     </text>
   </g>
 </svg>

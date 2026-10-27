@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p-t-01">
-  <title id="p-t-01">Medical Diagnosis Center: ServiceNow Service Portal System</title>
+  <title id="p-t-01">Medical Diagnosis Center</title>
   <defs>
     <linearGradient id="p-bg-01" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#140305"/><stop offset="1" stop-color="#000000"/>
+      <stop offset="0" stop-color="#050B17"/><stop offset="1" stop-color="#0B1C3B"/>
     </linearGradient>
     <radialGradient id="p-glow-01" cx="82%" cy="30%" r="55%">
-      <stop offset="0" stop-color="#df2531" stop-opacity=".45"/><stop offset="1" stop-color="#3d0a0d" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7A4BA8" stop-opacity=".45"/>
+      <stop offset="60%" stop-color="#6EC9E8" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#050B17" stop-opacity="0"/>
     </radialGradient>
     <pattern id="p-grid-01" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#df2531" stroke-opacity=".08"/>
+      <circle cx="2" cy="2" r="0.6" fill="#ffffff" opacity="0.3"/>
+      <path d="M28 0H0V28" fill="none" stroke="#6EC9E8" stroke-opacity=".06"/>
     </pattern>
     <clipPath id="p-clip-01"><rect width="1200" height="370" rx="18"/></clipPath>
   </defs>
@@ -21,68 +24,63 @@
     <rect width="1200" height="370" fill="url(#p-bg-01)"/>
     <rect x="720" width="480" height="370" fill="url(#p-grid-01)"/>
     <rect width="1200" height="370" fill="url(#p-glow-01)"/>
-    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#df2531" stroke-opacity=".25"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#7A4BA8" stroke-opacity=".4"/>
     
-    <g class="p-in p-d1">
-      <text class="p-mono" x="56" y="60" font-size="12" letter-spacing="2.6" fill="#df2531">01 · ServiceNow · Service Portal · JavaScript · 2025</text>
+    <g>
+      <text class="p-mono" x="56" y="60" font-size="12" letter-spacing="2.6" fill="#6EC9E8">✦ 01 · ServiceNow · Service Portal · JavaScript · 2025</text>
       <text class="p-serif" x="54" y="120" font-size="44" font-weight="300" letter-spacing="-1.5" fill="#ffffff">Medical Diagnosis Center</text>
-      <text class="p-sans" x="56" y="160" font-size="16.5" fill="#ffffff">ServiceNow-based diagnostic management system for patient care and records.</text>
-      <text class="p-mono" x="56" y="196" font-size="12" fill="#b3a1a4"><tspan fill="#df2531">BUILT ›</tspan> Patient registration, appointment booking, medical records, automated notifications, role ACLs</text>
-      <line class="p-draw" x1="56" y1="222" x2="680" y2="222" stroke="#df2531" stroke-opacity=".35" stroke-width="1.2"/>
+      <text class="p-sans" x="56" y="160" font-size="16.5" fill="#D58BE8">ServiceNow-based diagnostic management system for patient care and records.</text>
+      <text class="p-mono" x="56" y="196" font-size="12" fill="#C5B8DA"><tspan fill="#6EC9E8">BUILT ›</tspan> Patient registration, appointment booking, medical records, automated notifications, role ACLs</text>
+      <line x1="56" y1="222" x2="680" y2="222" stroke="#6EC9E8" stroke-opacity=".4" stroke-width="1.2"/>
       
       <g transform="translate(56 262)">
-        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">100%</text>
-        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">secure role-based access</text>
+        <text class="p-serif" font-size="34" font-weight="300" fill="#F6D48F">100%</text>
+        <text class="p-sans" y="24" font-size="12" fill="#C5B8DA">secure role-based access</text>
       </g>
       <g transform="translate(261 262)">
-        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">Automated</text>
-        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">appointment tracking</text>
+        <text class="p-serif" font-size="34" font-weight="300" fill="#6EC9E8">Automated</text>
+        <text class="p-sans" y="24" font-size="12" fill="#C5B8DA">appointment tracking</text>
       </g>
       <g transform="translate(466 262)">
-        <text class="p-serif" font-size="34" font-weight="300" fill="#ffffff">Dedicated</text>
-        <text class="p-sans" y="24" font-size="12" fill="#b3a1a4">patient service portal</text>
+        <text class="p-serif" font-size="34" font-weight="300" fill="#D58BE8">Dedicated</text>
+        <text class="p-sans" y="24" font-size="12" fill="#C5B8DA">patient service portal</text>
       </g>
       
       <g transform="translate(0, 0)">
-        <g class="p-chip"><rect x="56" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="108" y="331" text-anchor="middle" font-size="11" fill="#ffffff">ServiceNow</text></g>
-        <g class="p-chip"><rect x="171" y="314" width="115" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="228" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Service Portal</text></g>
-        <g class="p-chip"><rect x="296" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="348" y="331" text-anchor="middle" font-size="11" fill="#ffffff">JavaScript</text></g>
-        <g class="p-chip"><rect x="411" y="314" width="115" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="468" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Business Rules</text></g>
-        <g class="p-chip"><rect x="536" y="314" width="105" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="588" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Catalog Items</text></g>
-        <g class="p-chip"><rect x="651" y="314" width="75" height="26" rx="6" fill="#1c0407" stroke="#df2531" stroke-width="0.8"/><text class="p-mono" x="688" y="331" text-anchor="middle" font-size="11" fill="#ffffff">ACLs</text></g>
+        <g class="p-chip"><rect x="56" y="314" width="104" height="26" rx="6" fill="#0B1C3B" stroke="#6EC9E8" stroke-width="0.9"/><text class="p-mono" x="108.0" y="331" text-anchor="middle" font-size="11" fill="#6EC9E8">ServiceNow</text></g><g class="p-chip"><rect x="170" y="314" width="136" height="26" rx="6" fill="#0B1C3B" stroke="#D58BE8" stroke-width="0.9"/><text class="p-mono" x="238.0" y="331" text-anchor="middle" font-size="11" fill="#D58BE8">Service Portal</text></g><g class="p-chip"><rect x="316" y="314" width="104" height="26" rx="6" fill="#0B1C3B" stroke="#F6D48F" stroke-width="0.9"/><text class="p-mono" x="368.0" y="331" text-anchor="middle" font-size="11" fill="#F6D48F">JavaScript</text></g><g class="p-chip"><rect x="430" y="314" width="136" height="26" rx="6" fill="#0B1C3B" stroke="#7A4BA8" stroke-width="0.9"/><text class="p-mono" x="498.0" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Business Rules</text></g><g class="p-chip"><rect x="576" y="314" width="128" height="26" rx="6" fill="#0B1C3B" stroke="#6EC9E8" stroke-width="0.9"/><text class="p-mono" x="640.0" y="331" text-anchor="middle" font-size="11" fill="#ffffff">Catalog Items</text></g><g class="p-chip"><rect x="714" y="314" width="56" height="26" rx="6" fill="#0B1C3B" stroke="#D58BE8" stroke-width="0.9"/><text class="p-mono" x="742.0" y="331" text-anchor="middle" font-size="11" fill="#ffffff">ACLs</text></g>
       </g>
     </g>
 
     <!-- Architecture Visual Card Right -->
-    <g class="p-in p-d2" transform="translate(790, 60)">
-      <rect width="350" height="250" rx="14" fill="#0c0204" stroke="#df2531" stroke-opacity=".35" stroke-width="1.2"/>
-      <text class="p-mono" x="24" y="34" font-size="11" font-weight="700" fill="#df2531">SERVICE PORTAL ARCHITECTURE</text>
+    <g transform="translate(790, 60)">
+      <rect width="350" height="250" rx="14" fill="#060F20" stroke="#7A4BA8" stroke-opacity=".6" stroke-width="1.2"/>
+      <text class="p-mono" x="24" y="34" font-size="11" font-weight="700" fill="#6EC9E8">✦ SERVICE PORTAL ARCHITECTURE</text>
       
       <g transform="translate(24, 52)">
-        <rect width="135" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <rect width="135" height="36" rx="6" fill="#0B1C3B" stroke="#6EC9E8" stroke-opacity=".6" stroke-width="0.9"/>
         <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">📋 Patient Portal</text>
       </g>
-      <path d="M 170 70 L 190 70" stroke="#df2531" stroke-width="1.5" />
+      <path d="M 170 70 L 190 70" stroke="#6EC9E8" stroke-width="1.8" />
       <g transform="translate(200, 52)">
-        <rect width="125" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <rect width="125" height="36" rx="6" fill="#0B1C3B" stroke="#D58BE8" stroke-opacity=".6" stroke-width="0.9"/>
         <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🎫 Catalog Item</text>
       </g>
 
-      <path d="M 262 98 L 262 116" stroke="#df2531" stroke-width="1.5" />
+      <path d="M 262 98 L 262 116" stroke="#D58BE8" stroke-width="1.8" />
 
       <g transform="translate(24, 126)">
-        <rect width="135" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
-        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🔒 ACL &amp; Policies</text>
+        <rect width="135" height="36" rx="6" fill="#0B1C3B" stroke="#F6D48F" stroke-opacity=".6" stroke-width="0.9"/>
+        <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">🔒 ACL & Policies</text>
       </g>
-      <path d="M 190 144 L 170 144" stroke="#df2531" stroke-width="1.5" />
+      <path d="M 190 144 L 170 144" stroke="#F6D48F" stroke-width="1.8" />
       <g transform="translate(200, 126)">
-        <rect width="125" height="36" rx="6" fill="#180407" stroke="#df2531" stroke-opacity=".4" stroke-width="0.8"/>
+        <rect width="125" height="36" rx="6" fill="#0B1C3B" stroke="#7A4BA8" stroke-opacity=".6" stroke-width="0.9"/>
         <text class="p-mono" x="12" y="23" font-size="11" fill="#ffffff">⚙️ Business Rules</text>
       </g>
 
       <g transform="translate(24, 185)">
-        <rect width="302" height="40" rx="8" fill="#1c0407" stroke="#df2531" stroke-width="1"/>
-        <text class="p-mono" x="16" y="25" font-size="11" font-weight="700" fill="#ffffff">✓ Automated Workflow &amp; Appointment SLA</text>
+        <rect width="302" height="40" rx="8" fill="#141E42" stroke="#6EC9E8" stroke-width="1.2"/>
+        <text class="p-mono" x="16" y="25" font-size="11" font-weight="700" fill="#F6D48F">✓ Automated Workflow & Appointment SLA</text>
       </g>
     </g>
   </g>
